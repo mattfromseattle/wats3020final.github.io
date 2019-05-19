@@ -1,7 +1,7 @@
 # The Book of Kells
 
 ## Introduction
-The purpose of this website is to present my final project for the WATS3020 class, demonstrating my understanding of the history of text in tech. Throughout this page, I will highlight what my selected imagery is, its significance and history, my own adaptation of the selected image, and an analysis of it. After that, I will then discuss the audience my adaptation is intended for and how I would look to persuade that audience with my adaptation. Lastly, I will outline my process and decision making around my adaptation, outlining how I arrived at conclusions that I have.
+The purpose of this website is to present my final project for the WATS3020 class, demonstrating my understanding of the history of text in tech. Throughout this page, I will highlight what my selected imagery is, its significance and history, my own adaptation of the selected image, and an analysis of it. After that, I will then discuss the audience my adaptation is intended for and how I would look to persuade that audience with my adaptation. Lastly, I will outline my process and decision making around my adaptation, outlining how I arrived at conclusions that I have. For my image, I am focusing on The **Book of Kells**, specifically the image of Saint Matthew.
 
 <div id="container">
   <img src="http://www.florin.ms/mathkells.jpg">
