@@ -6,16 +6,6 @@ For my final project, I have selected to focus on The Book of Kells, which “co
 <div id="container">
   <img src="http://www.florin.ms/mathkells.jpg">
   </div>
-  
-  #container {
-    height:100px;
-    line-height:100px;
-}
-
-#container img {
-    vertical-align:middle;
-    max-height:100%;
-}
 
 I selected this image because it is one of the most famous books in the world due to its decorations and it is one that I was able to see in person when I visited Ireland last year. I was captivated by the ornamentation on the pages I saw and the amount of detail that went into these decorations is unlike anything I’d ever seen before, especially given its age. 
 
