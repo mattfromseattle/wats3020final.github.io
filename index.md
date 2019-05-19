@@ -1,4 +1,23 @@
-## Welcome to My WATS3020 Final Page
+## The Book of Kells
 
-# Intent
-Here, I will be posting my work for my WATS3020 class to build out an overview of the history of text in tech. The site will contain a mixture of **text, imagery, visual, and audio content** that helps to tell the story of text in tech and how we use it today in comparison with how we used to.
+# Introduction
+For my final project, I have selected to focus on The Book of Kells, which “contains the four Gospels in Latin based on the Vulgate text which St Jerome completed in 384AD, intermixed with readings from the earlier Old Latin translation ("Book Of Kells - The Library Of Trinity College Dublin - Trinity College Dublin").” The Book of Kells is written on a prepared calfskin, called vellum and is heavily decorated with intricate drawings of plants, animals, and humans throughout its 340 folios contained inside. For my final, I will focus on the primary image from The Book of Matthew.
+
+<div id="container">
+  <img src="http://www.florin.ms/mathkells.jpg">
+  </div>
+  
+  #container {
+    height:100px;
+    line-height:100px;
+}
+
+#container img {
+    vertical-align:middle;
+    max-height:100%;
+}
+
+I selected this image because it is one of the most famous books in the world due to its decorations and it is one that I was able to see in person when I visited Ireland last year. I was captivated by the ornamentation on the pages I saw and the amount of detail that went into these decorations is unlike anything I’d ever seen before, especially given its age. 
+
+Bibliography
+"Book Of Kells - The Library Of Trinity College Dublin - Trinity College Dublin". Tcd.Ie, 2019, https://www.tcd.ie/library/manuscripts/book-of-kells.php. Accessed 19 May 2019.
