@@ -17,6 +17,7 @@ For additional information about the Book of Kells and the art within it, the fo
 [![The Book of Kells - A Masterpiece of Irish Art](https://img.youtube.com/vi/lLNIbroSsLo/hqdefault.jpg)](https://www.youtube.com/watch?v=lLNIbroSsLo)
 
 ## The Adaptation
+![My Adaptation](https://i.imgur.com/vpHtsuE.png)
 
 ### Formal Qualities
 
