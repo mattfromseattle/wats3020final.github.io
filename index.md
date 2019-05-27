@@ -29,3 +29,10 @@ For additional information about the Book of Kells and the art within it, the fo
 
 ## Bibliography
 "Book Of Kells - The Library Of Trinity College Dublin - Trinity College Dublin". Tcd.Ie, 2019, https://www.tcd.ie/library/manuscripts/book-of-kells.php. Accessed 19 May 2019.
+
+## New Branch
+
+Hi Matthew, I'm adding this just so you can see what it's like to have someone work on your site, write it on a new branch in their fork, and ultimately, so you can receive a pull request, which you can then accept or reject. Pretty cool, huh?
+
+Don't worry, I won't be offended when you reject my pull request. ;)
+
