@@ -13,9 +13,6 @@ The Book of Kells is one of the most famous books in the world due to its ornate
 ## Historical Context
 The Book of Kells, which “contains the four Gospels in Latin based on the Vulgate text which St Jerome completed in 384AD, intermixed with readings from the earlier Old Latin translation ("Book Of Kells - The Library Of Trinity College Dublin - Trinity College Dublin").” The Book of Kells is written on a prepared calfskin, called vellum and is heavily decorated with intricate drawings of plants, animals, and humans throughout its 340 folios contained inside. The "exquisite illustrations in the Book of Kells has been a source of inspiration for artists and Irish artisan craftspeople for centuries (Design, 2018)." For my final, I will focus on the primary image from The Book of Matthew.
 
-For additional information about the Book of Kells and the art within it, the following video provides a more in depth look.
-[![The Book of Kells - A Masterpiece of Irish Art](https://img.youtube.com/vi/lLNIbroSsLo/hqdefault.jpg)](https://www.youtube.com/watch?v=lLNIbroSsLo)
-
 ## The Adaptation
 ![My Adaptation](https://i.imgur.com/vpHtsuE.png)
 
